@@ -5,4 +5,5 @@
   - Download the latest spark from http://spark.apache.org/downloads.html . In the form, choose latest version of spark. In package type, select "Prebuilt for Hadoop 2.x and later". 
   - I downloaded the spark-1.4.1 library by `wget http://apache.arvixe.com//spark/spark-1.4.1/spark-1.4.1-bin-hadoop2.6.tgz` Note: this link might not work in future.
 3. Unzip the contents of the file using `tar -xvf spark-1.4.1-bin-hadoop2.6.tgz`.
-4. Run `./bin/run-example SparkPi 10` inside the spark-1.4.1-bin-hadoop2.6 directory. If everything is correct, your spark engine should start and shut down for a second.
+4. Change directory to the unziped content. `cd spark-1.4.1-bin-hadoop2.6/` 
+5. Run `./bin/run-example SparkPi 10`. If everything is correct, your spark engine should start and shut down for a second.
