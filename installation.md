@@ -8,6 +8,6 @@
 4. Change directory to the unziped content. `cd spark-1.4.1-bin-hadoop2.6/` 
 5. Run `./bin/run-example SparkPi 10`. If everything is correct, your spark engine should start and shut down for a second.
 
-## STINGER (georgiatech) Installation
+## STINGER (GeorgiaTech) Installation
 
 Stinger has detailed installation instructions given on http://www.stingergraph.com/index.php?id=getting-started
