@@ -12,3 +12,8 @@
 ### STINGER
 
 
+Reference
+---------
+1. STINGER introduction [link](http://www.stingergraph.com/index.php?id=introduction)
+2. GraphX programming guide [link](http://spark.apache.org/docs/latest/graphx-programming-guide.html#graph-operators)
+3. GraphX Algorithms [link](http://spark.apache.org/docs/latest/api/scala/index.html#org.apache.spark.graphx.lib.package)
