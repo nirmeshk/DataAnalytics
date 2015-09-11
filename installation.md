@@ -11,3 +11,38 @@
 ## STINGER (GeorgiaTech) Installation
 
 Stinger has detailed installation instructions given on http://www.stingergraph.com/index.php?id=getting-started
+
+### Steps follwed on Ubuntu 14.04 64-bit machine with gcc compiler
+```bash
+tar -xvf stinger-r633.tar.gz && cd stinger-r633/
+ln make.inc-gcc make.inc
+make
+make lib
+cd ..
+```
+- Download and install [SWIG] (www.swig.org)
+```bash
+tar -xvf swig-3.0.7.tar.gz  && cd swig-3.0.7/
+./configure
+make
+sudo make install
+cd ../stinger-r633/
+```
+
+- Download and install [doxygen](www.doxygen.org). Follow installation guide http://www.doxygen.org/install.html. It has lots of dependencies and ugly installation process.
+```bash
+ git clone https://github.com/doxygen/doxygen.git
+ mkdir build && cd build
+ cmake -G "Unix Makefiles" ..  # This step may through error if some dependency is missing. Google will help here
+ sudo make install
+ ```
+
+- Build Python and java libraries
+```bash
+cd stinger-r633/
+make java
+make python
+```
+
+
+
