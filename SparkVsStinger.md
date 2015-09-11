@@ -1,4 +1,5 @@
 ### Apache Spark GraphX
+-----------------------
 #### Class of data processing:
 Distributed data flow based processing. Mostly suitable for iterative graph algorithms that can be divided into bunch of iterations with map, join and groub by operators.
 
@@ -14,7 +15,13 @@ In the efforts to make graph processing efficient, research was focused on devel
 - TriangleCount: Compute the number of triangles passing through each vertex
 - In addition to that, there are many third party implementations of various algorithms available.
 
+#### Supported Operators
+#### Interface to various queuing technologies 
+#### Support for various specialised graph data base
+#### Examples
+
 ### STINGER (Spatio-Temporal Interaction Networks and Graphs (STING) Extensible Representation)
+-----------------------------------------------------------------------------------------------
 #### Class of data processing:
 STINGER is designed to work for systems with massive shared memmory. The goal here is to develop algorithms that can run on machines with supercomputing powers (e.g XMT C, MTGL, PBGL). One of the main problems with these systems is **Portability**. Programs developed for one kind of architecture may not be portable to other. STINGER tries to solve this problem by providing a data structure that can be used reasonably well with all such types of shared memmory architectures.
 
@@ -27,6 +34,10 @@ STINGER is designed to work for systems with massive shared memmory. The goal he
 - K-core Extraction: Extract additional communities and filter noisy high-degree vertices.
 - Classic breadth-first search: Performs a parallel breadth-first search of the graph starting at a given source vertex to find shortest paths.
 
+#### Supported Operators
+#### Interface to various queuing technologies 
+#### Support for various specialised graph data base
+#### Examples
 
 Reference
 ---------
