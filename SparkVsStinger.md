@@ -1,3 +1,6 @@
+[Home](README.md) | 
+[Installation](installation.md)
+
 ### Apache Spark GraphX
 -----------------------
 #### Class of data processing:
