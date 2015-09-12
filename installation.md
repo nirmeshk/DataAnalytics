@@ -11,7 +11,7 @@ System: Ubuntu 14.04 64-bit
 
 - Spark is distributed data processing engine. In order to store data, it requires one of the distributed filesystems. One of the prefered choice is HDFS (Hadoop file system). To install spark on Ubuntu, we will be using the distribution that already has Hadoop built-in.
 - Download the latest spark from http://spark.apache.org/downloads.html . In the form, choose latest version of spark. In package type, select "Prebuilt for Hadoop 2.x and later". 
-- I downloaded the spark-1.5.0 library by 
+
 ```bash
 # Download spark 1.5 pre built with hadoop 2.6
 curl -O http://apache.arvixe.com/spark/spark-1.5.0/spark-1.5.0-bin-hadoop2.6.tgz 
