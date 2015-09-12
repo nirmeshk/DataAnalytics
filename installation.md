@@ -1,3 +1,5 @@
+#### [Home](README.md)
+
 ## Spark Installation on Ubuntu
 
 1. Make sure you have Java installed on the machine, and JAVA_HOME added to your PATH. Infomation on installing JAVA on ubuntu can be found [link](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get). **Note:** Don't forget to set JAVA_HOME enviornment variable. 
