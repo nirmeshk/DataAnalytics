@@ -22,6 +22,27 @@ In the efforts to make graph processing efficient, research was focused on devel
 #### Support for various specialised graph data base
 #### Examples
 
+1. `cd $SPARK_HOME`
+
+2. Running pagerrank from python:
+  ```
+  ./bin/spark-submit examples/src/main/python/pagerank.py <Txt file with Edge List> <Number of iterations>
+  ./bin/spark-submit examples/src/main/python/pagerank.py graphx/data/followers.txt 30
+  ```
+3. Running pagerrank for java:
+  ```
+  ./bin/spark-submit \
+  --class <main-class>
+  --master <master-url> \
+  <application-jar> <command-line argument>\
+ 
+  # Exact command
+  ./bin/spark-submit   \
+  --class "org.apache.spark.examples.JavaPageRank"   \
+  --master local[4]   \
+  ./examples/target/scala-2.10/spark-examples-1.4.1-hadoop2.2.0.jar graphx/data/followers.txt 30
+  ```
+
 ### STINGER (Spatio-Temporal Interaction Networks and Graphs (STING) Extensible Representation)
 -----------------------------------------------------------------------------------------------
 #### Class of data processing:
