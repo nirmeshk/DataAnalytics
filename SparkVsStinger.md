@@ -23,13 +23,16 @@ In the efforts to make graph processing efficient, research was focused on devel
 #### Examples
 
 1. `cd $SPARK_HOME`
+2. ./bin/spark-submit script is used for submitting the job to spark cluster.
 
-2. Running pagerrank from python:
+3. Running pagerrank from python:
   ```
   ./bin/spark-submit examples/src/main/python/pagerank.py <Txt file with Edge List> <Number of iterations>
   ./bin/spark-submit examples/src/main/python/pagerank.py graphx/data/followers.txt 30
   ```
-3. Running pagerrank for java:
+  graphx/data/followers.txt is text file containing edge list.
+  
+4. Running pagerrank for java:
   ```
   ./bin/spark-submit \
   --class <main-class>
