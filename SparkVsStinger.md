@@ -1,5 +1,4 @@
-[Home](README.md) | 
-[Installation](installation.md)
+###[Home](README.md) | [Installation](installation.md)
 
 ### Apache Spark GraphX
 -----------------------
