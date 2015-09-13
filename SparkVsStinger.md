@@ -28,7 +28,7 @@ In the efforts to make graph processing efficient, research was focused on devel
 3. Running pagerrank from python:
   ```
   ./bin/spark-submit examples/src/main/python/pagerank.py <Txt file with Edge List> <Number of iterations>
-  ./bin/spark-submit examples/src/main/python/pagerank.py graphx/data/followers.txt 30
+  ./bin/spark-submit examples/src/main/python/pagerank.py data/mllib/pagerank_data.txt 30
   ```
   graphx/data/followers.txt is text file containing edge list.
   
@@ -43,7 +43,7 @@ In the efforts to make graph processing efficient, research was focused on devel
   ./bin/spark-submit   \
   --class "org.apache.spark.examples.JavaPageRank"   \
   --master local[4]   \
-  ./examples/target/scala-2.10/spark-examples-1.4.1-hadoop2.2.0.jar graphx/data/followers.txt 30
+  ./examples/target/scala-2.10/spark-examples-1.4.1-hadoop2.2.0.jar data/mllib/pagerank_data.txt 30
   ```
 
 ### STINGER (Spatio-Temporal Interaction Networks and Graphs (STING) Extensible Representation)
