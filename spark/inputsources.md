@@ -9,5 +9,7 @@ Spark Streaming can receive streaming input from following services:
 |ZeroMQ   |	spark-streaming-zeromq_2.10       |
 |MQTT     |	spark-streaming-mqtt_2.10         |
 
+Apart from the above mentioned services, spark can also accept streaming data from TCP ports directly.
+
 ## Language Support:
 1. Scala
