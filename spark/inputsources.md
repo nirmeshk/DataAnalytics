@@ -10,4 +10,4 @@ Spark Streaming can receive streaming input from following services:
 |MQTT     |	spark-streaming-mqtt_2.10         |
 
 ## Language Support:
-1) Scala
+1. Scala
