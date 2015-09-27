@@ -7,17 +7,17 @@
 - [x] Java
 - [x] Scala
 
-#### Mllib
-- [x] Python
-- [x] Java
-- [x] Scala
-
-#### GraphX
+#### GraphX : Graph processing library of Spark
 - [ ] Python
 - [ ] Java
 - [x] Scala
 
-#### Spark Streaming
+#### Mllib: Machine learning library of Spark
+- [x] Python
+- [x] Java
+- [x] Scala
+
+#### Spark Streaming: Stream Procesing library of Spark
 - [x] Python
 - [x] Java
 - [x] Scala
