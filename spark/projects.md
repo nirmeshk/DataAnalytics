@@ -2,7 +2,7 @@
 
 #### Word Count and Log processing examples in slides
 
-These examples are present in the Intro to spark slides that I prepared. In order to showcase hello world programs to students, these two examples can serve as perfect initial assignments for the course. Data set will be easily available for both the examples.
+These examples are present in the **Intro to Spark** slides that I prepared. In order to showcase hello world programs to students, these two examples can serve as perfect initial assignments for the course. Data set will be easily available for both the examples.
 
 #### More practice on RDDs, actions and transformation (For Lab assignment):
 - Trying out different ways to create RDD : from texfile, from Python list, from Cassandra , from HDFS.
