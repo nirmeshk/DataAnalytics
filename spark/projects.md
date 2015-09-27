@@ -24,5 +24,6 @@ The above two projects can act as starting point for students to get their hands
 - Can be implemented from end to end using Python.
 
 #### Social network analysis by lambda architecture:
+- http://www.drdobbs.com/database/applying-the-big-data-lambda-architectur/240162604
 - This is interesting project. But somewhat difficult to obtain data set.
 - User tries to find relation between users by mining their different social profiles: facebook, twitter, linkedIn, google+.  "I want to be able to capture whether I happen to know someone from multiple social networks, such as Twitter or LinkedIn, or from real-life circumstances" - [webpage](http://www.drdobbs.com/database/applying-the-big-data-lambda-architectur/240162604)
