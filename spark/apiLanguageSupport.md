@@ -2,9 +2,22 @@
 - [x] => Api supported in the language
 - [ ] => Not supported currently
 
-| Library         | Python  | Java  | Scala   |
-| --------------- | ------- | ----- | ------- |
-| Spark Core      | - [x]   | - [x]   | - [x]     |
-| Mllib           | - [x]   | - [x]   | - [x]     |
-| GraphX          | - [ ]   | - [ ]   | - [x]     |
-| Spark Streaming | - [x]   | - [x]   | - [x]     |
+#### Spark Core
+- [x] Python
+- [x] Java
+- [x] Scala
+
+#### Mllib
+- [x] Python
+- [x] Java
+- [x] Scala
+
+#### GraphX
+- [ ] Python
+- [ ] Java
+- [x] Scala
+
+#### Spark Streaming
+- [x] Python
+- [x] Java
+- [x] Scala
