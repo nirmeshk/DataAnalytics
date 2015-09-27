@@ -4,6 +4,7 @@ A repository with all the research work done as a part of Independent research u
 - [STINGER Georgia Tech](installation.md)
     - [STINGER installation on Ubuntu](installation.md#stinger)
     - [Spark vs Stinger comparison](SparkVsStinger.md)
+- [Quick references for the required Python concepts](python.md)
 - [Apache Spark](spark/README.md)
     - [Language support of various API](spark/apiLanguageSupport.md)
     - [Data input source](spark/inputsources.md)
