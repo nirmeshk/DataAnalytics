@@ -21,6 +21,7 @@ The above two projects can act as starting point for students to get their hands
 - Involves understanding of collaborative recomendation algorithms (The book uses Alternating Least Squares Recommender Algorithm)
 - Can be used for movie recomendation as well. Data set is available at http://grouplens.org/datasets/movielens/
 - Can be implemented from end to end using Python.
+- [Movie recomendation example](http://www.slideshare.net/CasertaConcepts/analytics-week-recommendations-on-spark)
 
 #### A toy example of Lambda architecture for real-time analysis of hashtags in twitter. 
 - https://github.com/pereferrera/trident-lambda-splout
