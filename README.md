@@ -13,6 +13,7 @@ A repository with comparisons for different graph processing tehnologies
     - [STINGER installation on Ubuntu](installation.md#stinger)
 - [Spark vs Stinger comparison](SparkVsStinger.md)
 - [Apache Spark](spark/README.md)
+    - [Language support of various API](spark/apiLanguageSupport.md)
     - [Data input source](spark/inputsources.md)
     - [List of operators](spark/operators.md)
     - [Graph Processing in Spark](spark/graphx.md)
