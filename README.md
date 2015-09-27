@@ -17,3 +17,4 @@ A repository with comparisons for different graph processing tehnologies
     - [Data input source](spark/inputsources.md)
     - [List of operators](spark/operators.md)
     - [Graph Processing in Spark](spark/graphx.md)
+    - [Spark Projects](spark/projects.md)
