@@ -4,6 +4,11 @@
 
 These examples are present in the Intro to spark slides that I prepared. In order to showcase hello world programs to students, these two examples can serve as perfect initial assignments for the course. Data set will be easily available for both the examples.
 
+#### More practice on RDDs, actions and transformation (For Lab assignment):
+- Trying out different ways to create RDD : from texfile, from Python list, from Cassandra , from HDFS.
+- Tring out diffferent transformations: map, filter, flatMap, distinct, groupByKey, reduceByKey.
+- Trying out different actions: collect, take, first, count, reduce.
+
 #### Extending the log procesing example to have few integrations with other systems:
 - Storing cleaned data in some data store like Cassandra, s3, . This will involve the example of how to communicate with cassandra or other data sources.
 - Querying the data using sparkSQL or cassandra queries.
