@@ -11,6 +11,3 @@
 
 - Apart from the above mentioned services, spark can also accept streaming data from TCP ports directly.
 - There might be some other ways to interact with spark. For e.g, if we are not concerned about stream processing of data, we can always dump data into HDFS or text files that spark can directly read. There are connectors available for Cassandra, S3, HDFS.
-
-## Language Support:
-1. Scala
