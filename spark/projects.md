@@ -8,7 +8,7 @@ These examples are present in the Intro to spark slides that I prepared. In orde
 - Storing cleaned data in some data store like Cassandra, s3, . This will involve the example of how to communicate with cassandra or other data sources.
 - Querying the data using sparkSQL or cassandra queries.
 
-The above two projects can act as starting point for students to get their hands dirty with spark functionalities. 
+The above two projects can act as starting point for students to get their hands dirty with spark functionalities. Infact, they are very neccessary to understand the workflow of RDD, traformations and actions. 
 
 #### Music recomendation Engine
 - This is an example from book "Advanced Analytics with Spark - Sandy Ryza, Uri Laserson, Sean Owen, and Josh Wills" . Its chapter 3 in the book.
