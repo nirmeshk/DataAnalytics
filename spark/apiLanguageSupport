@@ -1,0 +1,7 @@
+
+|Library          | Python  | Java  | Scala   | 
+|-----------------|---------|-------|---------|
+| Spark Core      | [x]     | [x]   | [X]     |
+| Mllib           | []      |       |         |
+| GraphX          |         |       |         |
+| Spark Streaming |         |       |         |
