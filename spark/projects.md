@@ -2,7 +2,7 @@
 
 #### Word Count and Log processing examples in slides
 
-In order to showcase hello world programs to students, these two examples can serve as perfect initial assignments for the course. Data set will be easily available for both the examples.
+These examples are present in the Intro to spark slides that I prepared. In order to showcase hello world programs to students, these two examples can serve as perfect initial assignments for the course. Data set will be easily available for both the examples.
 
 #### Extending the log procesing to an end to end data processing pipeline in spark that involves:
 - Storing cleaned data in some data store like Cassandra, s3, . This will involve the example of how to communicate with cassandra or other data sources.
