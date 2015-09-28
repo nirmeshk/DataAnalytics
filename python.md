@@ -54,10 +54,10 @@ map(sum, [1, 2, 3, 4])      # will retun 10
 
 #### args and Kwargs
 
-*args and **kwargs are used to pass variable number of arguments to function.
+`*args` (Variable preceeded with single astericks) and `**kwargs` (variable with double astericks) are used to pass variable number of arguments to function.
 
-*args is used to pass list of arguments to function.
-**kwargs is used to pass key-value dictionary to function.
+`*args` is used to pass list of arguments to function.
+`**kwargs` is used to pass key-value dictionary to function.
 
 http://markmiyashita.com/blog/python-args-and-kwargs/
 
