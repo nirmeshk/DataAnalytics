@@ -60,7 +60,7 @@ map(sum, [1, 2, 3, 4])      # will retun 10
 
 ```python
 def manyArgs(*args):
-  print("I was called with", len(arg), "arguments:"
+  print("I was called with", len(arg), "arguments:")
   print(args)
 
 """
@@ -79,7 +79,7 @@ I was called with 3 arguments:
 def myfunc(**kwargs):
     # kwargs is a dictionary.
     for k,v in kwargs.iteritems():
-         print "%s = %s" % (k, v)
+         print("%s = %s" % (k, v))
 
 myfunc(abc=123, efh=456)
 """
