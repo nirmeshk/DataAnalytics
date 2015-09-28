@@ -76,7 +76,7 @@ def sum(x, y):
   return x+y
   
 #lambda equivalent
-square = lamda x, y: x+y
+square = lambda x, y: x+y
 map(lambda x,y: x+y, [1, 2, 3, 4]) # Will return 10
 
 ```
