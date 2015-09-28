@@ -53,7 +53,7 @@ map(sum, [1, 2, 3, 4])      # will retun 10
 **Tip:** Eventhough map() function is provided, the pythonic way to do above operations is via list comprehensions. The above ilustrations are just to meant to through some light on how we can pass functions as arguments to other functions.
 
 #### Understanding lambda functions in python:
-- lambda is a way to create anonynous functions in Python.
+- `lambda` is a way to create anonynous functions in Python.
 ```python
 # Example without lambda
 
