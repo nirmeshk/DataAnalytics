@@ -57,7 +57,36 @@ map(sum, [1, 2, 3, 4])      # will retun 10
 `*args` (Variable preceeded with single astericks) and `**kwargs` (variable with double astericks) are used to pass variable number of arguments to function.
 
 `*args` is used to pass list of arguments to function.
-`**kwargs` is used to pass key-value dictionary to function.
+
+```python
+def manyArgs(*args):
+  print("I was called with", len(arg), "arguments:"
+  print(args)
+
+"""
+>>> manyArgs(1, 2)
+I was called with 1 arguments: 
+(1, 2)
+>>> manyArgs(1, 2, 3)
+I was called with 3 arguments: 
+(1, 2, 3)
+"""
+```
+
+`**kwargs` is used to pass variable number of key-value arguments to function.
+
+```python
+def myfunc(**kwargs):
+    # kwargs is a dictionary.
+    for k,v in kwargs.iteritems():
+         print "%s = %s" % (k, v)
+
+myfunc(abc=123, efh=456)
+"""
+abc = 123
+efh = 456
+"""
+```
 
 http://markmiyashita.com/blog/python-args-and-kwargs/
 
