@@ -52,6 +52,38 @@ map(sum, [1, 2, 3, 4])      # will retun 10
 
 **Tip:** Eventhough map() function is provided, the pythonic way to do above operations is via list comprehensions. The above ilustrations are just to meant to through some light on how we can pass functions as arguments to other functions.
 
+#### Understanding lambda functions in python:
+- lambda is a way to create anonynous functions in Python.
+```python
+# Example without lambda
+
+def square(x):
+  return x**2
+
+map(square, [1, 2, 3, 4])   # Will return [1, 4, 9, 16]
+
+# The above function square can be created anonymously at runtime
+
+map(lambda x: x**2, [1, 2, 3, 4])   # Will return [1, 4, 9, 16]
+
+"""
+Syntax:
+lambda <argument_list> : <expresion>
+"""
+
+def sum(x, y): 
+  return x+y
+  
+#lambda equivalent
+square = lamda x, y: x+y
+map(lambda x,y: x+y, [1, 2, 3, 4]) # Will return 10
+
+```
+
+- Tutorial on lambdas: (http://www.python-course.eu/lambda.php) 
+- **Note:** Do not confuse this with lambda calculus. This is just a keyword for creating anonymous functions in Python. A shorcut for defining the throwaway functions. 
+ 
+
 #### args and Kwargs
 
 `*args` (Variable preceeded with single astericks) and `**kwargs` (variable with double astericks) are used to pass variable number of arguments to function.
@@ -88,8 +120,4 @@ efh = 456
 """
 ```
 
-http://markmiyashita.com/blog/python-args-and-kwargs/
-
-#### Understanding lambda functions in python:
- - Tutorial on lambdas: (http://www.python-course.eu/lambda.php) 
- - **Note:** Do not confuse this with lambda calculus. This is just a keyword for creating anonymous functions in Python. A shorcut for defining the throwaway functions. 
+- Further lookup: http://markmiyashita.com/blog/python-args-and-kwargs/
