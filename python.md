@@ -40,7 +40,7 @@ best([1,2,3,4], highest)   # This time, the same function will return '4' as bes
 There are many in build function in Python that accepts other functions as output.
 E.g map() function
 
-```
+```python
 def square(x):
   return x**2
   
