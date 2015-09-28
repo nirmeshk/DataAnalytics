@@ -81,8 +81,8 @@ def myfunc(**kwargs):
     for k,v in kwargs.iteritems():
          print("%s = %s" % (k, v))
 
-myfunc(abc=123, efh=456)
 """
+>>> myfunc(abc=123, efh=456)
 abc = 123
 efh = 456
 """
