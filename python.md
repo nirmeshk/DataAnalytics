@@ -19,7 +19,7 @@ Example:
 ```python
 def best(x, criteria):
   """ A function that return best solution from list of solutions depending upon criteria"""
-  return criteria(x)  #once you add '()' around the variable name, python tries to run it as function.
+  return criteria(x)  # Once you add '()' around the variable name, python tries to run it as function.
 
 def lowest(x):
   """ Return minimum from a list """
