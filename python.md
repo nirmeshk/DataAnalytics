@@ -4,7 +4,13 @@
 - [Google's Python tutorial for programmers](https://developers.google.com/edu/python/)
 
 ### Some concepts that you will need for understanding Spark programs better:
-Caution: Please complete the basics of Python first before jumping to this section.
+Caution: Please complete the basics of Python first before jumping to this section. Make sure you are comfortable with following:
+
+- [x] Variable, loops, conditional statements
+- [x] Function definations in Python
+- [x] lists and [list comprehensions](http://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+- [x] Dictionaries
+- [x] tuples 
 
 #### Passing functions as argument to other functions:
 Functions are first-class objects in python. you can pass them around, include them in dicts, lists, etc. Just don't include the parenthesis after the function name. 
