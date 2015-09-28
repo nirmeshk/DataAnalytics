@@ -52,6 +52,15 @@ map(sum, [1, 2, 3, 4])      # will retun 10
 
 **Tip:** Eventhough map() function is provided, the pythonic way to do above operations is via list comprehensions. The above ilustrations are just to meant to through some light on how we can pass functions as arguments to other functions.
 
+#### args and Kwargs
+
+*args and **kwargs are used to pass variable number of arguments to function.
+
+*args is used to pass list of arguments to function.
+**kwargs is used to pass key-value dictionary to function.
+
+http://markmiyashita.com/blog/python-args-and-kwargs/
+
 #### Understanding lambda functions in python:
  - Tutorial on lambdas: (http://www.python-course.eu/lambda.php) 
  - **Note:** Do not confuse this with lambda calculus. This is just a keyword for creating anonymous functions in Python. A shorcut for defining the throwaway functions. 
