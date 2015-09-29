@@ -15,7 +15,7 @@ These examples are present in the **Intro to Spark** slides that I prepared. In 
 
 The above two projects can act as starting point for students to get their hands dirty with spark functionalities. Infact, they are very neccessary to understand the workflow of RDD, traformations and actions. 
 
-#### Music recomendation Engine
+#### Music/Movie recomendation Engine
 - This is an example from book "Advanced Analytics with Spark - Sandy Ryza, Uri Laserson, Sean Owen, and Josh Wills" . Its chapter 3 in the book.
 - Data set is readily available.
 - Involves understanding of collaborative recomendation algorithms (The book uses Alternating Least Squares Recommender Algorithm)
