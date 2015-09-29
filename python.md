@@ -87,7 +87,7 @@ map(lambda x,y: x+y, [1, 2, 3, 4]) # Will return 10
 
 #### args and Kwargs
 
-`*args` (Variable preceeded with single astericks) and `**kwargs` (variable with double astericks) are used to pass variable number of arguments to function.
+`*args` (Variable preceeded with single astericks) and `**kwargs` (variable with double astericks and short for keyword arguments) are used to pass variable number of arguments to function.
 
 `*args` is used to pass list of arguments to function.
 
