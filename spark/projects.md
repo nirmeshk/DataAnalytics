@@ -41,6 +41,15 @@ The above two projects can act as starting point for students to get their hands
 - Multiple models can be compared using various model evaluation strategies  
 - NOTE: Feasibility study of spark libraries are required for the end to end implementation.
 
+#### Twitter Streaming Language Classifier.
+- https://databricks.gitbooks.io/databricks-spark-reference-applications/content/twitter_classifier/index.html
+- This simple example will provide a hands-on experience with Spark Streaming, Spark SQL and Spark MLLib.
+- It is divided into three parts:
+  Part 1: Fetching twitter tweets in real time using Spark Streaming twitter library and storing them in files. 
+  Part 2: Perform some exploratory analysis on the data collected using Spark SQL, for example: count the total number of tweets for the most common languages. The idea is to understand the distribution of tweets across languages. Now, train a model using one of the Spark MLLib algorithms such as KMeans to classify these tweets into different clusters of languages. The number of clusters and number of iterations can be configured.
+  Part 3: Once the model is trained, use Spark streaming libraries to fetch live tweets. Apply the model on the tweets, filtering out only those which match a specified cluster and printing those matching tweets.
+
+
 
 
 
