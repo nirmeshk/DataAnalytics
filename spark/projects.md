@@ -33,3 +33,14 @@ The above two projects can act as starting point for students to get their hands
 - http://www.drdobbs.com/database/applying-the-big-data-lambda-architectur/240162604
 - This is interesting project. But somewhat difficult to obtain data set.
 - User tries to find relation between users by mining their different social profiles: facebook, twitter, linkedIn, google+.  "I want to be able to capture whether I happen to know someone from multiple social networks, such as Twitter or LinkedIn, or from real-life circumstances" - [webpage](http://www.drdobbs.com/database/applying-the-big-data-lambda-architectur/240162604)
+
+#### Crime Data Classification using Spark MLlib #####
+- This is an open online competition on [Kaggle.com](https://www.kaggle.com/c/sf-crime/data)
+- Using Spark ML library [Spark MLLib](https://spark.apache.org/docs/1.1.0/mllib-guide.html) packages, state of the art classification algorithms such as Decision Tree, SVM, naive Bayes, logistic regression can be applied. 
+- Basic Exploratory Data Analysis can be performed using pyspark packages
+- Multiple models can be compared using various model evaluation strategies  
+- NOTE: Feasibility study is required for the end to end analysis.
+
+
+
+
