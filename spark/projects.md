@@ -34,13 +34,14 @@ The above two projects can act as starting point for students to get their hands
 - This is interesting project. But somewhat difficult to obtain data set.
 - User tries to find relation between users by mining their different social profiles: facebook, twitter, linkedIn, google+.  "I want to be able to capture whether I happen to know someone from multiple social networks, such as Twitter or LinkedIn, or from real-life circumstances" - [webpage](http://www.drdobbs.com/database/applying-the-big-data-lambda-architectur/240162604)
 
-#### Crime Data Classification using Spark MLlib #####
-- This is an open online competition on [Kaggle.com](https://www.kaggle.com/c/sf-crime/data)
-- Using Spark ML library [Spark MLLib](https://spark.apache.org/docs/1.1.0/mllib-guide.html) packages, state of the art classification algorithms such as Decision Tree, SVM, naive Bayes, logistic regression can be applied. 
-- Basic Exploratory Data Analysis can be performed using pyspark packages
-- Multiple models can be compared using various model evaluation strategies  
-- NOTE: Feasibility study of spark libraries are required for the end to end implementation.
+#### Real-Time Stream Processing and Elasticsearch:
+- https://github.com/skrusche63/spark-elastic
+- In this project, we can use Spark Streaming as a consumer and aggregator of tracking data streams, and perform a live indexing using elastic search.
+- Various real time analytics applications can be build using this combination using financial, adtech, user behavior, Internet of things data, etc.
 
-
-
+#### Understanding Wikipedia with Latent Semantic Analysis:
+- Wikipedia Dataset is easily available [webpage](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
+- This is a basic text analysis project. Pipeline starts with converting xml files to text files followed by stopwords filetring, lemmatizations, computing TF-IDF scores and building term-document matrix. 
+- Next we apply dimensionality reduction techniques such as SVD, PCA (Spark's MLlib library)
+- Finally, we can apply latent semantic analysis techniques to find Term-Term relevance, Term-Document relevance, Document-Document relevance, etc.
 
