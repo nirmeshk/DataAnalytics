@@ -39,7 +39,7 @@ The above two projects can act as starting point for students to get their hands
 - Using Spark ML library [Spark MLLib](https://spark.apache.org/docs/1.1.0/mllib-guide.html) packages, state of the art classification algorithms such as Decision Tree, SVM, naive Bayes, logistic regression can be applied. 
 - Basic Exploratory Data Analysis can be performed using pyspark packages
 - Multiple models can be compared using various model evaluation strategies  
-- NOTE: Feasibility study is required for the end to end analysis.
+- NOTE: Feasibility study of spark libraries are required for the end to end implementation.
 
 
 
