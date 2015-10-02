@@ -40,7 +40,7 @@ The above two projects can act as starting point for students to get their hands
 - Applying Deep Learning packages to build classification models
 - Multiple models can be compared using various model evaluation strategies  
  
-#### Details
+##### Details
 - This is an open online competition on [Kaggle.com](https://www.kaggle.com/c/sf-crime/data)
 - Using Spark ML library [Spark MLLib](https://spark.apache.org/docs/1.1.0/mllib-guide.html) packages, state of the art classification algorithms such as Decision Tree, SVM, naive Bayes, logistic regression can be applied. 
 - Basic Exploratory Data Analysis can be performed using pyspark packages
