@@ -17,9 +17,12 @@ The above two projects can act as starting point for students to get their hands
 
 #### Music/Movie recomendation Engine
 - This is an example from book "Advanced Analytics with Spark - Sandy Ryza, Uri Laserson, Sean Owen, and Josh Wills" . Its chapter 3 in the book.
-- Data set is readily available.
+##### Data Set:
+- Data set is readily available for both [Movie](http://grouplens.org/datasets/movielens/) and [Music](https://www.kaggle.com/c/msdchallenge/data).
+##### Algorithmic Perspective:
 - Involves understanding of collaborative recomendation algorithms (The book uses Alternating Least Squares Recommender Algorithm)
-- Can be used for movie recomendation as well. Data set is available at http://grouplens.org/datasets/movielens/
+
+##### Example implementaions:
 - Can be implemented from end to end using Python.
 - [Movie recomendation example](http://www.slideshare.net/CasertaConcepts/analytics-week-recommendations-on-spark)
 
