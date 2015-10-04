@@ -1,10 +1,10 @@
-##Fraud Detecttion using Deep Learning 
+##Fraud Detection using Deep Learning 
 
 ###Paypal Usecase
 
-Paypal used H20 Deep Learning Implementation for the fraud Detection. It turns out deep learning models are  good at identifying the complex patterns and characteristics of cybercrime and online fraud. Machine-learning-based pattern recognition has long been a major part of fraud detection practices. Here is the slideshare [link](http://www.slideshare.net/0xdata/paypal-fraud-detection-with-deep-learning-in-h2o-presentationh2oworld2014)
+Paypal used H2O Deep Learning Implementation for the fraud Detection. It turns out deep learning models are  good at identifying the complex patterns and characteristics of cybercrime and online fraud. Machine-learning-based pattern recognition has long been a major part of fraud detection practices. Here is the slideshare [link](http://www.slideshare.net/0xdata/paypal-fraud-detection-with-deep-learning-in-h2o-presentationh2oworld2014)
 
-### About H20 Software
+### About H2O Software
 - Open Source machine learning framework for Big Data Analysis
 - Wikipedia Page : https://en.wikipedia.org/wiki/H2O_(software)
 - Website : http://h2o.ai
