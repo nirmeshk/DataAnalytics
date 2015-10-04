@@ -9,3 +9,6 @@ A repository with all the research work done as a part of Independent research u
     - [Language support of various API](spark/apiLanguageSupport.md)
     - [Data input source](spark/inputsources.md) 
     - [Spark Projects](spark/projects.md)
+- Algorithmic Projects
+    - [Bitcoin Example](usecases/bitcoin.md)
+    - [Fraud detection](usecases/fraud-detection.md)
