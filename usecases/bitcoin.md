@@ -5,7 +5,7 @@ Bitcoin [(bitcoin.org)](https://bitcoin.org/en/) is a digital, cryptographically
 
 
 ###Dataset and Sample Code Repository
-- A bitcoin dataset extracted from it's inception to April 7, 2012, containing 6.2M nodes and 37M directed, weighted, time-stamped edges. This new dataset, its metadata, and extraction code is available at: [http://compbio.cs.uic.edu/data/bitcoin/](Bitcoin Transaction Network Dataset).
+- A bitcoin dataset extracted from it's inception to April 7, 2012, containing 6.2M nodes and 37M directed, weighted, time-stamped edges. This new dataset, its metadata, and extraction code is available at:[Bitcoin Transaction Network Dataset](http://compbio.cs.uic.edu/data/bitcoin/)
 
 - Useful Bitcoin Data Resources : http://www.coindesk.com/9-useful-bitcoin-data-resources/
 These websites provide information on pricing, trading, market capitalisations, blockchain statistics and more. 
