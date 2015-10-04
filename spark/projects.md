@@ -35,11 +35,17 @@ The above two projects can act as starting point for students to get their hands
 - User tries to find relation between users by mining their different social profiles: facebook, twitter, linkedIn, google+.  "I want to be able to capture whether I happen to know someone from multiple social networks, such as Twitter or LinkedIn, or from real-life circumstances" - [webpage](http://www.drdobbs.com/database/applying-the-big-data-lambda-architectur/240162604)
 
 #### Crime Data Classification using Spark MLlib #####
+##### Learning Objectives : 
+- Feature Engineering
+- Applying Deep Learning packages to build classification models
+- Multiple models can be compared using various model evaluation strategies  
+ 
+##### Details
 - This is an open online competition on [Kaggle.com](https://www.kaggle.com/c/sf-crime/data)
 - Using Spark ML library [Spark MLLib](https://spark.apache.org/docs/1.1.0/mllib-guide.html) packages, state of the art classification algorithms such as Decision Tree, SVM, naive Bayes, logistic regression can be applied. 
 - Basic Exploratory Data Analysis can be performed using pyspark packages
-- Multiple models can be compared using various model evaluation strategies  
-- NOTE: Feasibility study of spark libraries are required for the end to end implementation.
+
+
 
 #### Twitter Streaming Language Classifier.
 - https://databricks.gitbooks.io/databricks-spark-reference-applications/content/twitter_classifier/index.html
