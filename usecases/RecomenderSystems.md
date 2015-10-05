@@ -18,3 +18,4 @@ The goal of recomendation sysem is to predict the preference of user. For e.g, w
 ### Famous Algorithms used:
 - Collaborative filtering based on matrix factorization.
 - Content based filtering using meta data of songs/movies. This may involve numbe of machine learning techniques - both classification and regression.
+- Hybreed: involving both of the above.
