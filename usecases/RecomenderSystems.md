@@ -6,7 +6,8 @@ The goal of recomendation sysem is to predict the preference of user. For e.g, w
 ### Data Set and Sample Code repositories
 - Music recomendation example from book "Advanced Analytics with Spark - Sandy Ryza, Uri Laserson, Sean Owen, and Josh Wills" . Data set is readily available at [link](http://www-etud.iro.umontreal.ca/~bergstrj/audioscrobbler_data.html). The example uses Collaborative technique for recomending the songs that user may like.
 - The Million Song Dataset Challenge [paper](https://www.ee.columbia.edu/~dpwe/pubs/McFeeBEL12-MSDC.pdf) and [Kaggle competition](https://www.kaggle.com/c/msdchallenge).
-- Movielens data set by University of Minnesota (http://grouplens.org/datasets/movielens/) and their recomendation engine in Java [lenskit] (https://github.com/lenskit/lenskit)
+- Movielens data set by University of Minnesota (http://grouplens.org/datasets/movielens/) and their recomendation engine in Java [lenskit] (https://github.com/lenskit/lenskit).
+- [Movie recomendation in Spark] (http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
 
 ### Literature available:
 - Collaborative Filtering for Implicit Feedback Datasets - Yifan Hu, Yehuda Koren, Chris Volinsky [link](http://yifanhu.net/PUB/cf.pdf)
