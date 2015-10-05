@@ -14,10 +14,14 @@ Sentiment Analysis can be used to automatically detects emotions, speculations, 
 3. Stanford Implementation and Paper on [RNN] (http://nlp.stanford.edu/sentiment/)
 4. Sentiment Analysis with Spark [Sample Project](https://github.com/zdata-inc/SparkSampleProject)
 5. [Spark MLlib for LDA] (http://spark.apache.org/docs/latest/mllib-clustering.html#latent-dirichlet-allocation-lda)
+6. Word2vec for Movie Reviews on [Kaggle] (https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
 ### Algorithms:
 1. Latent Dirichlet Allocation(LDA)
   - Publication : Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
 
 2. Recursive and Recurrent Neural Network (RNN)
-  - Publications: [Sentiment Analysis on Movie Reviews using Recursive and Recurrent Neural Network Architectures](https://cs224d.stanford.edu/reports/TimmarajuAditya.pdf)
+  - Publication: [Sentiment Analysis on Movie Reviews using Recursive and Recurrent Neural Network Architectures](https://cs224d.stanford.edu/reports/TimmarajuAditya.pdf)
+  
+3. Word2Vec
+  - Publication: [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)
