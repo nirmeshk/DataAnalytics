@@ -12,3 +12,5 @@ A repository with all the research work done as a part of Independent research u
 - Algorithmic Projects
     - [Bitcoin Example](usecases/bitcoin.md)
     - [Fraud detection](usecases/fraud-detection.md)
+    - [Sentiment Analysis](usecases/SentimentAnalysis.md)
+    - [Recomendation Systems](usecases/RecomenderSystems.md)
