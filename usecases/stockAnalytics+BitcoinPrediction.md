@@ -31,21 +31,20 @@ Come up with models which can effectively predict price variation in bitcoin.
 
 ### Datasets
 
-- OKCoin provides APIs to fetch recent bitcoin transactions.
-https://www.okcoin.com/about/rest_api.do#spapi
+- [OKCoin] (https://www.okcoin.com/about/rest_api.do#spapi) provides APIs to fetch recent bitcoin transactions.
 
 Each bitcoin transaction will have the following information:
-date: transaction time
-date_ms: transaction time in milliseconds
-price: transaction price
-amount: quantity in BTC (or LTC)
-tid: transaction ID
-type: buy/sell
+- date: transaction time,
+- date_ms: transaction time in milliseconds,
+- price: transaction price,
+- amount: quantity in BTC (or LTC),
+- tid: transaction ID,
+- type: buy/sell
 
 
 Other datasets:
-[Datadives] (https://www.datadives.com/dataset.php?datasetid=ds_5)
-[bitcoincharts] (http://api.bitcoincharts.com/v1/csv/)
+- [Datadives] (https://www.datadives.com/dataset.php?datasetid=ds_5)
+- [bitcoincharts] (http://api.bitcoincharts.com/v1/csv/)
 
 They will have only the following fields: (Timestamp, Bitcoin price, Amount transacted)
 
@@ -64,6 +63,6 @@ This paper used machine learning algorithms such as glm, svm and random forests 
 Models are created using glm, svm and random forests and compared for Accuracy, Precision, Specificity and Sensitivity.
 
 
-Going forward, we can try to implement some of these models using the algorithms used in these papers and using newer techniques such as deep learning to give a comparative study.
+Going forward, we can try to implement some of these models using the algorithms used in these papers and using newer techniques such as deep learning if possible, to give a comparative study.
 
  
