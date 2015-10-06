@@ -25,3 +25,11 @@ Sentiment Analysis can be used to automatically detects emotions, speculations, 
   
 3. Word2Vec
   - Publication: [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~ang/papers/acl11-WordVectorsSentimentAnalysis.pdf)
+
+
+### Tutorial:
+[Sentiment Analysis and Opinion Mining](http://www.cs.uic.edu/~liub/FBS/Sentiment-Analysis-tutorial-AAAI-2011.pdf)
+
+### Reference Slides:
+[Slides](http://lct-master.org/files/MullenSentimentCourseSlides.pdf)
+
