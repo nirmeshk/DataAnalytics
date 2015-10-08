@@ -16,6 +16,8 @@ These websites provide information on pricing, trading, market capitalisations, 
 - [MIT computer scientists can predict the price of Bitcoin](http://news.mit.edu/2014/mit-computer-scientists-can-predict-price-bitcoin).  
  Research paper published [Bayesian regression and Bitcoin](http://arxiv.org/pdf/1410.1231v1.pdf)
 
+- Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods [Paper Link](http://cs229.stanford.edu/proj2014/Phillip%20Pham,Steven%20Li,%20Anomaly%20Detection%20in%20Bitcoin%20Network%20Using%20Unsupervised%20Learning%20Methods.pdf)
+
 - Unsupervised Learning of Bitcoin Transaction Data. Project Goal is to evaluate the concentration of the Bitcoin network. http://aosc.umd.edu/~ide/data/teaching/amsc663/14fall/amsc663_14proposal_stefan_poikonen.pdf
 
 - Automated Bitcoin Trading via Machine Learning Algorithms. [Price Prediction](http://cs229.stanford.edu/proj2014/Isaac%20Madan,%20Shaurya%20Saluja,%20Aojia%20Zhao,Automated%20Bitcoin%20Trading%20via%20Machine%20Learning%20Algorithms.pdf)  
