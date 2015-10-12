@@ -17,6 +17,8 @@ These websites provide information on pricing, trading, market capitalisations, 
  Research paper published [Bayesian regression and Bitcoin](http://arxiv.org/pdf/1410.1231v1.pdf)
 
 - Anomaly Detection in Bitcoin Network Using Unsupervised Learning Methods [Paper Link](http://cs229.stanford.edu/proj2014/Phillip%20Pham,Steven%20Li,%20Anomaly%20Detection%20in%20Bitcoin%20Network%20Using%20Unsupervised%20Learning%20Methods.pdf)
+- Ground Truth Theft cases for Bitcoin: https://bitcointalk.org/index.php?topic=576337  
+
 
 - Unsupervised Learning of Bitcoin Transaction Data. Project Goal is to evaluate the concentration of the Bitcoin network. http://aosc.umd.edu/~ide/data/teaching/amsc663/14fall/amsc663_14proposal_stefan_poikonen.pdf
 
