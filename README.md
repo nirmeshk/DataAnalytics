@@ -5,7 +5,8 @@ A repository with all the research work done as a part of Independent research u
     - [STINGER installation on Ubuntu](installation.md#stinger)
     - [Spark vs Stinger comparison](SparkVsStinger.md)
 - Apache Spark
-    - [Python 101 required for Spark](python.md)    
+    - [Python 101 required for Spark](python.md)   
+    - [Spark Tutorial](spark-tutorial.md)
     - [Language support of various API](spark/apiLanguageSupport.md)
     - [Data input source](spark/inputsources.md) 
     - [Spark Projects](spark/projects.md)
